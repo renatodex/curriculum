@@ -2,7 +2,7 @@
 
 Como não tive tempo pra renderizar esse JSON numa página bonita, seguem as informações da minha carreira profissional:
 
-``JSON
+```JSON
 {
   "about": {
     "name": "Renato N. Alves",
@@ -147,4 +147,4 @@ There are also a lot of products that i was evolved related to SMS delivery, lik
     }
   }
 }
-``
+```
