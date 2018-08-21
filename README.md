@@ -60,7 +60,7 @@ Como não tive tempo pra renderizar esse JSON numa página bonita, seguem as inf
       "tags": ["security", "deep_web", "xsi", "injections", "white_hacking"],
       "started_at": "01-08-2013",
       "finished_at": "01-08-2013"
-    },
+    }
   },
   "jobs": {
     "0": {
@@ -111,10 +111,7 @@ Como não tive tempo pra renderizar esse JSON numa página bonita, seguem as inf
     "5": {
       "title": "Rede Bandeirantes",
       "role": "Backend Developer",
-      "description": "Great part of my job is related in develop web applications to run in WAP environment.
-I have aplications there for clients like BandNews and TIM.
-Some of them are just used for intranet management, but a lot of products like TIM Games and LeoMobile (used as Mobile TV promos at Band TV), commonly receives a highly volumn of user access, forcing our team to care about subjects like perfomance, scalability and others related to cache.
-There are also a lot of products that i was evolved related to SMS delivery, like Lottery (ClubeDaMega) and a SMS Footbal Commentator product.",
+      "description": "Great part of my job is related in develop web applications to run in WAP environment.I have aplications there for clients like BandNews and TIM. Some of them are just used for intranet management, but a lot of products like TIM Games and LeoMobile(used as Mobile TV promos at Band TV), commonly receives a highly volumn of user access, forcing our team to care about subjects like perfomance, scalability and others related to cache. There are also a lot of products that i was evolved related to SMS delivery, like Lottery(ClubeDaMega) and a SMS Footbal Commentator product.",
       "note": null,
       "tags": ["php", "svn", "zend_framework", "push_sms", "responsive_layout", "sql_server"],
       "started_at": "01-10-2010",
